@@ -1,11 +1,31 @@
+
+body
+{
+background-image: url(../assets/b.jpg);
+
+
+}
+
+
+
 #button {
 background-color: orange;
-origin: 0px center; 
+margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px; 
 
 
 
 }
 #virus{
-color: blue;
+color: orange;
 background-color: green;
+margin-left:300px;
+}
+#text
+{
+color: white;
+
+
 }

@@ -1,9 +1,11 @@
 
 var open = function (re) {
-document.getElementsById('IT IS').innerHTML = "I hope you have a great 2016 aunty judy!! thank you for doing so much for us!!!"
-
+document.getElementsById('IT IS').innerHTML = "I hope that you are having a great day, and thank you for everything!!!"
 
 
 }
-
-if (open === true) {console.log(thank you)}
+var surprise = function(re) {
+	re.open++;
+	document.getElementById('text').innerHTML = open + "you are the best!!!!"
+}
+if (open === true) {console.log("thank you")}
