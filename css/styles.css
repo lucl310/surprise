@@ -1,11 +1,31 @@
+body
+{
+background-image: url(../assets/background.jpg);
+text-align: center;
+
+}
+
 #button {
+height:100px; 
 background-color: orange;
-origin: 0px center; 
+/*margin: auto;*/
+margin-right: 20vw;
+margin-left: 20vw;
+margin-top: 40px;
+margin-bottom: 500px;
+
 
 
 
 }
 #virus{
-color: blue;
+font-family: "Lucida sans Unicode", "Lucida grande", sans-serif;
+font-size: 15px;
+text-align: center;
+margin-top: 25px;
+width: 100px;
+height: 50px;
+color: orange;
 background-color: green;
+border-color: blue
 }
