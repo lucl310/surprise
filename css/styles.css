@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body
 {
 background-image: url(../assets/background.jpg);
@@ -5,20 +6,40 @@ text-align: center;
 
 }
 
+=======
+
+body
+{
+background-image: url(../assets/b.jpg);
+
+
+}
+
+
+
+>>>>>>> origin/master
 #button {
 height:100px; 
 background-color: orange;
+<<<<<<< HEAD
 /*margin: auto;*/
 margin-right: 20vw;
 margin-left: 20vw;
 margin-top: 40px;
 margin-bottom: 500px;
 
+=======
+margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px; 
+>>>>>>> origin/master
 
 
 
 }
 #virus{
+<<<<<<< HEAD
 font-family: "Lucida sans Unicode", "Lucida grande", sans-serif;
 font-size: 15px;
 text-align: center;
@@ -28,4 +49,15 @@ height: 50px;
 color: orange;
 background-color: green;
 border-color: blue
+=======
+color: orange;
+background-color: green;
+margin-left:300px;
+}
+#text
+{
+color: white;
+
+
+>>>>>>> origin/master
 }
